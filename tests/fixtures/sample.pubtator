@@ -1,0 +1,13 @@
+1000001|t|Aspirin reduces risk of colon cancer.
+1000001|a|We show that aspirin lowers colon cancer risk in mice carrying the BRCA1 variant.
+1000001	0	7	Aspirin	ChemicalEntity	D001241
+1000001	26	38	colon cancer	DiseaseOrPhenotypicFeature	D015179
+1000001	39	45	aspirin	ChemicalEntity	D001241
+1000001	58	70	colon cancer	DiseaseOrPhenotypicFeature	D015179,D003110
+1000001	83	87	mice	OrganismTaxon	10090
+1000001	105	110	BRCA1	GeneOrGeneProduct	672
+1000001	Negative_Correlation	D001241	D015179	Novel
+1000001	Association	672	D015179	No
+
+1000002|t|Second title.
+1000002|a|No annotations here.
